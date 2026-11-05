@@ -20,6 +20,12 @@ books = loads_book()
 count = int(input("how many books do you want to add ? "))
 for i in range(count):
     book = input("enter name of book : ")
+    priority = input("enter priority (low/medium/high): ").lower()
+    book = {
+        "name" : book,
+        "priority" : priority
+    }
+
     books.append(book)
 
 show_books(books)
