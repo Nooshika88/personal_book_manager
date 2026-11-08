@@ -13,7 +13,13 @@ A simple Python application to manage your personal book collection.
 - 💾 Save books in a JSON file
 - 📂 Load previously saved books
 - 🔐 Password-protected Admin Mode
+-  set task priority
 
+## Task Priority
+ each task can have one of this priority levels:
+- low
+- medium
+- high
 
 
 
@@ -77,11 +83,11 @@ python main.py
 
 # Screenshot
 
-![personal_book_manager](images\p1.jpg)
+![personal_book_manager](images\screenshot.jpg)
 
 # Demo
 
-![personal_book_manager](gifs\g1.gif)
+![personal_book_manager](gifs\giff1.gif)
 
 
 # Troubleshooting
