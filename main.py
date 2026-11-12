@@ -31,4 +31,4 @@ for i in range(count):
 show_books(books)
 save_books(books)
 
-print("total: ", len(books))
+print("you have ", len(books), "books in your collection")
