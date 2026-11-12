@@ -1,7 +1,7 @@
 # 📚 Personal Book Manager
 ![Static Badge](https://img.shields.io/badge/python-3.13-blue)
 
-A simple Python application to manage your personal book collection.
+A simple Python application to manage your personal book collection & planning.
 
 
 
