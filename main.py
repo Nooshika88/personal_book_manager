@@ -29,7 +29,7 @@ for i in range(count):
     }
 
     books.append(book)
-
+    print("book added successfully.")
 show_books(books)
 save_books(books)
 
